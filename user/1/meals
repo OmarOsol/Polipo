@@ -1,1 +1,1 @@
-[{"id":0,"idFavoriteMeal":0,"date":"13/04/2021","type":0},{"id":1,"idFavoriteMeal":1,"date":"31/03/2021","type":1},{"id":2,"idFavoriteMeal":1,"date":"31/03/2021","type":2}]
+[{"id":0,"favoriteMealName":"Pasto1","date":"13/04/2021","type":0},{"id":1,"favoriteMealName":"Pasto2","date":"31/03/2021","type":1},{"id":2,"favoriteMealName":"Pasto2","date":"31/03/2021","type":2}]
