@@ -1,0 +1,8 @@
+[{"id":0,"date":"01/11/2021","type":0,"name":"Pasto1","calories":95.5,"proteins":1.6,"fats":4.6,"carbs":11.5,"grams":100},
+{"id":1,"date":"01/11/2021","type":2,"name":"Pasto2","calories":90.1,"proteins":1.7,"fats":4.6,"carbs":12.0,"grams":100},
+{"id":2,"date":"01/11/2021","type":3,"name":"Pasto3","calories":91.1,"proteins":1.2,"fats":3.6,"carbs":12.0,"grams":100},
+{"id":3,"date":"02/11/2021","type":0,"name":"Pasto4","calories":90.1,"proteins":1.7,"fats":4.6,"carbs":11.0,"grams":100},
+{"id":4,"date":"02/11/2021","type":1,"name":"Pasto5","calories":95.1,"proteins":1.8,"fats":3.9,"carbs":12.2,"grams":100},
+{"id":5,"date":"02/11/2021","type":2,"name":"Pasto6","calories":93.0,"proteins":1.5,"fats":4.2,"carbs":11.7,"grams":100},
+{"id":6,"date":"02/11/2021","type":2,"name":"Pasto7","calories":89.7,"proteins":1.1,"fats":4.5,"carbs":13.3,"grams":100},
+{"id":7,"date":"02/11/2021","type":3,"name":"Pasto8","calories":90.1,"proteins":1.7,"fats":4.6,"carbs":12.0,"grams":100}]
